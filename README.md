@@ -32,6 +32,5 @@
 
 W razie pytań:
 - **E-mail główny: kawoszczylo.work@gmail.com**
-- E-mail studencki:   21324@student.ans-elblag.pl
   
 
