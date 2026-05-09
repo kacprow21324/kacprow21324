@@ -59,13 +59,18 @@
 
 ## Level & Contributions
 
-<p align="center">
-  <a href="https://awesome-github-stats.azurewebsites.net">
-    <img src="https://awesome-github-stats.azurewebsites.net/user-stats/kacprow21324?theme=tokyonight&background=0d1b2a&border=1b3a5c&text=ffffff&title=4A90D9&icon=4A90D9&ring=4A90D9&cardType=github" height="195"/>
-  </a>
-  &nbsp;
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kacprow21324&bg_color=0d1b2a&color=4A90D9&line=4A90D9&point=ffffff&area=true&hide_border=true" height="195"/>
-</p>
+<table align="center" border="0" cellpadding="0" cellspacing="8">
+  <tr>
+    <td align="center" valign="top">
+      <a href="https://awesome-github-stats.azurewebsites.net">
+        <img src="https://awesome-github-stats.azurewebsites.net/user-stats/kacprow21324?theme=tokyonight&background=0d1b2a&border=1b3a5c&text=ffffff&title=4A90D9&icon=4A90D9&ring=4A90D9&cardType=github" height="195"/>
+      </a>
+    </td>
+    <td align="center" valign="top">
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=kacprow21324&bg_color=0d1b2a&color=4A90D9&line=4A90D9&point=ffffff&area=true&hide_border=true" height="195"/>
+    </td>
+  </tr>
+</table>
 
 ## My Repositories
 
